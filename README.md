@@ -19,7 +19,7 @@
 ## Installation
 
 ```sh
-Hyde theme patch // and choose Green Lush
+Hyde theme patch // and choose Ferrari Flare
 ```
 
 For More Themes, Check out the [HyDe Gallery](https://github.com/kRHYME7/hyde-gallery)
