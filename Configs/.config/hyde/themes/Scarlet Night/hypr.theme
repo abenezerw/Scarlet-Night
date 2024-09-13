@@ -8,7 +8,7 @@ exec = gsettings set org.gnome.desktop.interface icon-theme '$ICON-THEME'
 exec = gsettings set org.gnome.desktop.interface gtk-theme '$GTK-THEME'
 exec = gsettings set org.gnome.desktop.interface color-scheme 'prefer-dark'
 
-#Set the sddm theme here
+#Set the sddm theme
 #exec = Hyde sddm set $SDDM-THEME
 
 general {
