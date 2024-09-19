@@ -5,7 +5,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
    height="695"
    version="1"
    id="svg2315"
-   sodipodi:docname="Scarlet-Night.svg"
+   sodipodi:docname="Decay-Green.svg"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -824,7 +824,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        id="selected_bg_color"
        gradientTransform="translate(91,-40.99999)">
       <stop
-         style="stop-color:#FF0000;stop-opacity:1.0"
+         style="stop-color:FF0000;stop-opacity:1.0"
          offset="0"
          id="stop181" />
     </linearGradient>
@@ -1009,10 +1009,10 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
   </g>
   <g
      id="dial-notches"
-     style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+     style="fill:#FF9999;fill-opacity:0.5019607843137255"
      transform="translate(-158.89134,-161.46256)">
     <rect
-       style="opacity:0;fill-opacity:0.5019607843137255;fill:#FFFFFF"
+       style="opacity:0;fill-opacity:0.5019607843137255;fill:#FF9999"
        width="45"
        height="45"
        x="202.5"
@@ -1020,10 +1020,10 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        id="rect217" />
     <path
        id="dial-notches0"
-       style="opacity:0.3;fill-opacity:0.5019607843137255;fill:#FFFFFF"
+       style="opacity:0.3;fill-opacity:0.5019607843137255;fill:#FF9999"
        d="m 214.625,670 -1.75,1 2.25,3.9063 1.75,-1 z m 20.75,0 -2.25,3.9063 1.75,1 2.25,-3.9063 z M 202.5,689 v 2 h 4.5 v -2 z m 40.5,0 v 2 h 4.5 v -2 z m -27.875,16.0938 -2.25,3.9062 1.75,1 2.25,-3.9062 z m 19.75,0 -1.75,1 2.25,3.9062 1.75,-1 z" />
     <path
-       style="opacity:0.3;fill-opacity:0.5019607843137255;fill:#FFFFFF"
+       style="opacity:0.3;fill-opacity:0.5019607843137255;fill:#FF9999"
        d="m 222.9062,667.5938 -0.5,0.0625 0.3125,2.9688 0.5,-0.0312 -0.3125,-3 z m 4.1875,0 -0.3125,3 0.5,0.0312 0.3125,-2.9688 -0.5,-0.0625 z m -8.8125,0.9375 -0.4688,0.1562 0.9375,2.8438 0.4688,-0.1562 z m 13.4375,0 -0.9375,2.8438 0.4688,0.1562 0.9375,-2.8438 z m -21.5938,4.5938 -0.375,0.3125 2.0312,2.25 0.3438,-0.3438 -2,-2.2188 z m 29.75,0 -2,2.2188 0.3438,0.3438 2.0312,-2.25 -0.375,-0.3125 z m -32.9375,3.4375 -0.2812,0.4062 2.4062,1.7812 0.3125,-0.4062 z m 36.125,0 -2.4375,1.7812 0.3125,0.4062 2.4062,-1.7812 z m -38.5,4.0625 -0.2188,0.4375 2.75,1.25 0.1875,-0.4688 -2.7188,-1.2188 z m 40.875,0 -2.7188,1.2188 0.1875,0.4688 2.75,-1.25 -0.2188,-0.4375 z m -42.4062,4.4375 -0.0937,0.5 2.9375,0.625 0.0937,-0.5 z m 43.9375,0 -2.9375,0.625 0.0937,0.5 2.9375,-0.625 z m -41.0938,8.75 -2.9375,0.625 0.0937,0.5 2.9375,-0.625 z m 38.25,0 -0.0937,0.5 2.9375,0.625 0.0937,-0.5 z m -37.0312,3.875 -2.75,1.25 0.2188,0.4375 2.7188,-1.2188 -0.1875,-0.4688 z m 35.8125,0 -0.1875,0.4688 2.7188,1.2188 0.2188,-0.4375 -2.75,-1.25 z m -33.8438,3.5625 -2.4062,1.7812 0.2812,0.4062 2.4375,-1.7812 z m 31.875,0 -0.3125,0.4062 2.4375,1.7812 0.2812,-0.4062 z m -29.1562,3.0625 -2.0312,2.25 0.375,0.3125 2,-2.2188 -0.3438,-0.3438 z m 26.4375,0 -0.3438,0.3438 2,2.2188 0.375,-0.3125 -2.0312,-2.25 z"
        id="path220" />
   </g>
@@ -1052,7 +1052,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="itemview-toggled-left"
      transform="matrix(0.44036689,0,0,-1.999996,510.85999,2181.7643)">
     <rect
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        width="2"
        height="21"
        x="-721.81"
@@ -1063,7 +1063,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="itemview-toggled-bottom"
      transform="matrix(0.84070043,0,0,-1.1999995,799.02299,1538.1001)">
     <rect
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        width="55"
        height="2"
        x="-719.81"
@@ -1072,7 +1072,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
   </g>
   <rect
      id="itemview-toggled-top"
-     style="fill:#FF0000;fill-opacity:1.0"
+     style="fill:FF0000;fill-opacity:1.0"
      width="46.239"
      height="3.6"
      x="193.88"
@@ -1082,7 +1082,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="itemview-toggled-right"
      transform="matrix(0.44036689,0,0,-1.999996,532.87829,2181.7643)">
     <rect
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        width="2"
        height="21"
        x="-664.81"
@@ -1091,7 +1091,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
   </g>
   <rect
      id="itemview-toggled"
-     style="fill:#FF0000;fill-opacity:1.0"
+     style="fill:FF0000;fill-opacity:1.0"
      width="46.239"
      height="42"
      x="193.88"
@@ -1099,19 +1099,19 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      transform="scale(1,-1)" />
   <path
      id="itemview-toggled-topleft"
-     style="fill:#FF0000;fill-opacity:1.0"
+     style="fill:FF0000;fill-opacity:1.0"
      d="m 193.88074,556.99973 c -0.48641,0 -0.88073,1.0745 -0.88073,2.4 v 1.2 h 0.88073 v -1.2 z" />
   <path
      id="itemview-toggled-bottomright"
-     style="fill:#FF0000;fill-opacity:1.0"
+     style="fill:FF0000;fill-opacity:1.0"
      d="m 241,602.59961 a 0.88073379,2.3999989 0 0 1 -0.88074,2.4 v -2.4 z" />
   <path
      id="itemview-toggled-bottomleft"
-     style="fill:#FF0000;fill-opacity:1.0"
+     style="fill:FF0000;fill-opacity:1.0"
      d="m 193,602.59961 a 0.88073379,2.3999989 0 0 0 0.88074,2.4 v -2.4 z" />
   <path
      id="itemview-toggled-topright"
-     style="fill:#FF0000;fill-opacity:1.0"
+     style="fill:FF0000;fill-opacity:1.0"
      d="m 240.11927,556.99973 c 0.48641,0 0.88073,1.0745 0.88073,2.4 v 1.2 h -0.88073 v -1.2 z" />
   <g
      id="toolbar-normal-top"
@@ -1133,7 +1133,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="itemview-pressed-left"
      transform="matrix(0.44036689,0,0,-1.999996,588.86,2181.7643)">
     <rect
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        width="2"
        height="21"
        x="-721.81"
@@ -1144,7 +1144,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="itemview-pressed-bottom"
      transform="matrix(0.84070043,0,0,-1.1999995,877.02311,1538.1001)">
     <rect
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        width="55"
        height="2"
        x="-719.81"
@@ -1153,7 +1153,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
   </g>
   <rect
      id="itemview-pressed-top"
-     style="fill:#FF0000;fill-opacity:1.0"
+     style="fill:FF0000;fill-opacity:1.0"
      width="46.239"
      height="3.6"
      x="271.88"
@@ -1163,7 +1163,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="itemview-pressed-right"
      transform="matrix(0.44036689,0,0,-1.999996,610.8783,2181.7643)">
     <rect
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        width="2"
        height="21"
        x="-664.81"
@@ -1172,7 +1172,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
   </g>
   <rect
      id="itemview-pressed"
-     style="fill:#FF0000;fill-opacity:1.0"
+     style="fill:FF0000;fill-opacity:1.0"
      width="46.239"
      height="42"
      x="271.88"
@@ -1180,37 +1180,37 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      transform="scale(1,-1)" />
   <path
      id="itemview-pressed-topleft"
-     style="fill:#FF0000;fill-opacity:1.0"
+     style="fill:FF0000;fill-opacity:1.0"
      d="m 271.88074,556.99973 c -0.48641,0 -0.88073,1.0745 -0.88073,2.4 v 1.2 h 0.88073 v -1.2 z" />
   <path
      id="itemview-pressed-bottomright"
-     style="fill:#FF0000;fill-opacity:1.0"
+     style="fill:FF0000;fill-opacity:1.0"
      d="m 319,602.59961 a 0.88073379,2.3999989 0 0 1 -0.88074,2.4 v -2.4 z" />
   <path
      id="itemview-pressed-bottomleft"
-     style="fill:#FF0000;fill-opacity:1.0"
+     style="fill:FF0000;fill-opacity:1.0"
      d="m 271,602.59961 a 0.88073379,2.3999989 0 0 0 0.88074,2.4 v -2.4 z" />
   <path
      id="itemview-pressed-topright"
-     style="fill:#FF0000;fill-opacity:1.0"
+     style="fill:FF0000;fill-opacity:1.0"
      d="m 318.11927,556.99973 c 0.48641,0 0.88073,1.0745 0.88073,2.4 v 1.2 h -0.88073 v -1.2 z" />
   <g
      id="splitter-grip-focused"
      style="opacity:0"
      transform="translate(502.42498,-393.92675)">
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        d="m 227.5,690 c 0,1.3807 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.1193 -2.5,-2.5 0,-1.3807 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.1193 2.5,2.5 z"
        id="path260" />
     <g
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        id="g266">
       <path
-         style="fill:#FF0000;fill-opacity:1.0"
+         style="fill:FF0000;fill-opacity:1.0"
          d="m 226.9643,683.9643 c 0,1.0848 -0.87944,1.9643 -1.96429,1.9643 -1.08484,0 -1.96428,-0.8795 -1.96428,-1.9643 0,-1.0849 0.87944,-1.9643 1.96428,-1.9643 1.08485,0 1.96429,0.8794 1.96429,1.9643 z"
          id="path262" />
       <path
-         style="fill:#FF0000;fill-opacity:1.0"
+         style="fill:FF0000;fill-opacity:1.0"
          d="m 226.9643,696.0357 c 0,1.0848 -0.87944,1.9643 -1.96429,1.9643 -1.08484,0 -1.96428,-0.8795 -1.96428,-1.9643 0,-1.0849 0.87944,-1.9643 1.96428,-1.9643 1.08485,0 1.96429,0.8794 1.96429,1.9643 z"
          id="path264" />
     </g>
@@ -1220,18 +1220,18 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      style="opacity:0"
      transform="translate(515.66069,-421.12141)">
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        d="m 227.5,690 c 0,1.3807 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.1193 -2.5,-2.5 0,-1.3807 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.1193 2.5,2.5 z"
        id="path269" />
     <g
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        id="g275">
       <path
-         style="fill:#FF0000;fill-opacity:1.0"
+         style="fill:FF0000;fill-opacity:1.0"
          d="m 226.9643,683.9643 c 0,1.0848 -0.87944,1.9643 -1.96429,1.9643 -1.08484,0 -1.96428,-0.8795 -1.96428,-1.9643 0,-1.0849 0.87944,-1.9643 1.96428,-1.9643 1.08485,0 1.96429,0.8794 1.96429,1.9643 z"
          id="path271" />
       <path
-         style="fill:#FF0000;fill-opacity:1.0"
+         style="fill:FF0000;fill-opacity:1.0"
          d="m 226.9643,696.0357 c 0,1.0848 -0.87944,1.9643 -1.96429,1.9643 -1.08484,0 -1.96428,-0.8795 -1.96428,-1.9643 0,-1.0849 0.87944,-1.9643 1.96428,-1.9643 1.08485,0 1.96429,0.8794 1.96429,1.9643 z"
          id="path273" />
     </g>
@@ -1260,7 +1260,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        d="m 227.5,690 c 0,1.3807 -1.11929,2.5 -2.5,2.5 -1.38071,0 -2.5,-1.1193 -2.5,-2.5 0,-1.3807 1.11929,-2.5 2.5,-2.5 1.38071,0 2.5,1.1193 2.5,2.5 z"
        id="path280" />
     <g
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        id="g286">
       <path
          style="fill:#bebebe;fill-opacity:1.0"
@@ -1335,14 +1335,14 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        transform="matrix(0.83333333,0,0,0.83333333,-5.6666667,-6)"
        id="rect303" />
     <circle
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        cx="14"
        cy="40"
        r="4"
        transform="matrix(2.0833333,0,0,2.0833333,-13.166666,-44.333332)"
        id="circle305" />
     <circle
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        cx="14"
        cy="40"
        r="4"
@@ -1378,19 +1378,19 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
   </g>
   <path
      id="slider-toggled-topleft"
-     style="fill:#FF0000;fill-rule:evenodd;fill-opacity:1.0"
+     style="fill:FF0000;fill-rule:evenodd;fill-opacity:1.0"
      d="m 530,7.9997563 c -6.648,0 -12,5.3519997 -12,11.9999997 h 12 z" />
   <path
      id="slider-toggled-left"
-     style="fill:#FF0000;fill-rule:evenodd;fill-opacity:1.0"
+     style="fill:FF0000;fill-rule:evenodd;fill-opacity:1.0"
      d="m 518,19.999766 v 15.90889 0.0911 h 12 v -15.99973 h -12 z" />
   <path
      id="slider-toggled-topright"
-     style="fill:#FF0000;fill-rule:evenodd;fill-opacity:1.0"
+     style="fill:FF0000;fill-rule:evenodd;fill-opacity:1.0"
      d="m 530,7.9997563 c 6.648,0 12,5.3519997 12,11.9999997 h -12 z" />
   <path
      id="slider-toggled-right"
-     style="fill:#FF0000;fill-rule:evenodd;fill-opacity:1.0"
+     style="fill:FF0000;fill-rule:evenodd;fill-opacity:1.0"
      d="m 530,19.999766 v 15.90889 0.0911 h 12 v -15.99973 h -12 z" />
   <path
      id="slider-normal-topleft"
@@ -1410,11 +1410,11 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      d="m 499,20.999806 v 15.90885 0.0911 h 12 v -15.99971 h -12 z" />
   <path
      id="slider-toggled-bottomleft"
-     style="fill:#FF0000;fill-rule:evenodd;fill-opacity:1.0"
+     style="fill:FF0000;fill-rule:evenodd;fill-opacity:1.0"
      d="m 530,47.999756 c -6.648,0 -12,-5.352 -12,-12 h 12 z" />
   <path
      id="slider-toggled-bottomright"
-     style="fill:#FF0000;fill-rule:evenodd;fill-opacity:1.0"
+     style="fill:FF0000;fill-rule:evenodd;fill-opacity:1.0"
      d="m 530,47.999756 c 6.648,0 12,-5.352 12,-12 h -12 z" />
   <path
      id="slider-normal-bottomleft"
@@ -1697,7 +1697,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
   </g>
   <rect
      id="scrollbarslider-pressed"
-     style="fill:#FF0000;fill-opacity:1.0"
+     style="fill:FF0000;fill-opacity:1.0"
      width="1"
      height="10"
      x="255"
@@ -1706,7 +1706,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="scrollbarslider-pressed-right"
      transform="matrix(0.75,0,0,1,250.25,461.99976)">
     <path
-       style="fill:#FF0000;fill-rule:evenodd;fill-opacity:1.0"
+       style="fill:FF0000;fill-rule:evenodd;fill-opacity:1.0"
        d="m 9,7 v 10 h 4 V 7 Z"
        id="path412" />
     <rect
@@ -1730,7 +1730,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-77)"
        id="rect417" />
     <path
-       style="fill:#FF0000;fill-rule:evenodd;fill-opacity:1.0"
+       style="fill:FF0000;fill-rule:evenodd;fill-opacity:1.0"
        d="m 9,3 v 4 h 4 C 13,4.784 11.216,3 9,3 Z"
        id="path419" />
   </g>
@@ -1746,7 +1746,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-83)"
        id="rect422" />
     <path
-       style="fill:#FF0000;fill-rule:evenodd;fill-opacity:1.0"
+       style="fill:FF0000;fill-rule:evenodd;fill-opacity:1.0"
        d="m 9,21 v -4 h 4 c 0,2.216 -1.784,4 -4,4 z"
        id="path424" />
   </g>
@@ -1754,7 +1754,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="scrollbarslider-pressed-left"
      transform="matrix(-0.75,0,0,1,260.75,461.99976)">
     <path
-       style="fill:#FF0000;fill-rule:evenodd;fill-opacity:1.0"
+       style="fill:FF0000;fill-rule:evenodd;fill-opacity:1.0"
        d="m 9,7 v 10 h 4 V 7 Z"
        id="path427" />
     <rect
@@ -1778,7 +1778,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-77)"
        id="rect432" />
     <path
-       style="fill:#FF0000;fill-rule:evenodd;fill-opacity:1.0"
+       style="fill:FF0000;fill-rule:evenodd;fill-opacity:1.0"
        d="m 9,3 v 4 h 4 C 13,4.784 11.216,3 9,3 Z"
        id="path434" />
   </g>
@@ -1794,7 +1794,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-83)"
        id="rect437" />
     <path
-       style="fill:#FF0000;fill-rule:evenodd;fill-opacity:1.0"
+       style="fill:FF0000;fill-rule:evenodd;fill-opacity:1.0"
        d="m 9,21 v -4 h 4 c 0,2.216 -1.784,4 -4,4 z"
        id="path439" />
   </g>
@@ -1810,7 +1810,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        transform="matrix(0,-10,-1.3333333,0,93,257)"
        id="rect442" />
     <path
-       style="fill:#FF0000;fill-rule:evenodd;fill-opacity:1.0"
+       style="fill:FF0000;fill-rule:evenodd;fill-opacity:1.0"
        d="m 9,7 v 10 h 4 V 7 Z"
        id="path444" />
   </g>
@@ -1826,13 +1826,13 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        transform="matrix(0,-10,1.3333333,0,-91,257)"
        id="rect447" />
     <path
-       style="fill:#FF0000;fill-rule:evenodd;fill-opacity:1.0"
+       style="fill:FF0000;fill-rule:evenodd;fill-opacity:1.0"
        d="m 9,7 v 10 h 4 V 7 Z"
        id="path449" />
   </g>
   <rect
      id="progress-pattern-normal"
-     style="fill:#FF0000;fill-opacity:1.0"
+     style="fill:FF0000;fill-opacity:1.0"
      width="30"
      height="30"
      x="419"
@@ -1849,7 +1849,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        transform="rotate(90)"
        id="rect453" />
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        d="m 64,98 v 30 h 1 V 98 Z"
        id="path455" />
   </g>
@@ -1864,7 +1864,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="96"
        id="rect458" />
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        d="m 65,97 c -0.497258,0 -1,0.51007 -1,1 h 1 z"
        id="path460" />
   </g>
@@ -1879,7 +1879,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="96"
        id="rect463" />
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        d="m 95,97 c 0.49726,0 1,0.51007 1,1 h -1 z"
        id="path465" />
   </g>
@@ -1895,7 +1895,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        transform="rotate(90)"
        id="rect468" />
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        d="m 96,98 v 30 H 95 V 98 Z"
        id="path470" />
   </g>
@@ -1910,7 +1910,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="96"
        id="rect473" />
     <rect
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        width="30"
        height="1"
        x="65"
@@ -1928,7 +1928,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="128"
        id="rect478" />
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        d="m 65,129 c -0.49726,0 -1,-0.51007 -1,-1 h 1 z"
        id="path480" />
   </g>
@@ -1943,7 +1943,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="128"
        id="rect483" />
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        d="m 95,129 c 0.49726,0 1,-0.51007 1,-1 h -1 z"
        id="path485" />
   </g>
@@ -1958,7 +1958,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="128"
        id="rect488" />
     <rect
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        width="30"
        height="1"
        x="65"
@@ -2106,7 +2106,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="itemview-focused-left"
      transform="matrix(0.44036689,0,0,-1.999996,448.85999,2181.7643)">
     <rect
-       style="opacity:0.2;fill:#FF0000;fill-opacity:1.0"
+       style="opacity:0.2;fill:FF0000;fill-opacity:1.0"
        width="2"
        height="21"
        x="-721.81"
@@ -2117,7 +2117,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="itemview-focused-bottom"
      transform="matrix(0.84070043,0,0,-1.1999995,737.02299,1538.1001)">
     <rect
-       style="opacity:0.2;fill:#FF0000;fill-opacity:1.0"
+       style="opacity:0.2;fill:FF0000;fill-opacity:1.0"
        width="55"
        height="2"
        x="-719.81"
@@ -2126,7 +2126,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
   </g>
   <rect
      id="itemview-focused-top"
-     style="opacity:0.2;fill:#FF0000;fill-opacity:1.0"
+     style="opacity:0.2;fill:FF0000;fill-opacity:1.0"
      width="46.239"
      height="3.6"
      x="131.88"
@@ -2136,7 +2136,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="itemview-focused-right"
      transform="matrix(0.44036689,0,0,-1.999996,470.87829,2181.7643)">
     <rect
-       style="opacity:0.2;fill:#FF0000;fill-opacity:1.0"
+       style="opacity:0.2;fill:FF0000;fill-opacity:1.0"
        width="2"
        height="21"
        x="-664.81"
@@ -2145,7 +2145,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
   </g>
   <rect
      id="itemview-focused"
-     style="opacity:0.2;fill:#FF0000;fill-opacity:1.0"
+     style="opacity:0.2;fill:FF0000;fill-opacity:1.0"
      width="46.239"
      height="42"
      x="131.88"
@@ -2153,19 +2153,19 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      transform="scale(1,-1)" />
   <path
      id="itemview-focused-topleft"
-     style="opacity:0.2;fill:#FF0000;fill-opacity:1.0"
+     style="opacity:0.2;fill:FF0000;fill-opacity:1.0"
      d="m 131.88074,556.99973 c -0.48641,0 -0.88073,1.0745 -0.88073,2.4 v 1.2 h 0.88073 v -1.2 z" />
   <path
      id="itemview-focused-bottomright"
-     style="opacity:0.2;fill:#FF0000;fill-opacity:1.0"
+     style="opacity:0.2;fill:FF0000;fill-opacity:1.0"
      d="m 179,602.59961 a 0.88073379,2.3999989 0 0 1 -0.88074,2.4 v -2.4 z" />
   <path
      id="itemview-focused-bottomleft"
-     style="opacity:0.2;fill:#FF0000;fill-opacity:1.0"
+     style="opacity:0.2;fill:FF0000;fill-opacity:1.0"
      d="m 131,602.59961 a 0.88073379,2.3999989 0 0 0 0.88074,2.4 v -2.4 z" />
   <path
      id="itemview-focused-topright"
-     style="opacity:0.2;fill:#FF0000;fill-opacity:1.0"
+     style="opacity:0.2;fill:FF0000;fill-opacity:1.0"
      d="m 178.11927,556.99973 c 0.48641,0 0.88073,1.0745 0.88073,2.4 v 1.2 h -0.88073 v -1.2 z" />
   <g
      id="slidercursor-normal"
@@ -2361,7 +2361,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="tbutton-toggled-topleft"
      transform="matrix(0.44036669,0,0,1.2307681,555.40993,-324.52584)">
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        transform="matrix(2.2708348,0,0,0.81250075,-1261.2442,263.65393)"
        d="m 242,629.99023 a 5,5.0000001 0 0 0 -5,5 h 1.5 3.5 v -3.5 z"
        id="path604" />
@@ -2370,7 +2370,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="tbutton-toggled-bottomleft"
      transform="matrix(0.44036669,0,0,1.2307681,562.12006,-316.37576)">
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        transform="matrix(2.2708348,0,0,0.81250075,-1276.4818,257.03199)"
        d="m 237,678.0293 a 5.0000005,5.0000001 0 0 0 5,5 v -1.46289 -3.5 -0.0371 z"
        id="path607" />
@@ -2379,7 +2379,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="tbutton-toggled-left"
      transform="matrix(0.44036669,0,0,2.0512769,558.97914,-984.73264)">
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        transform="matrix(2.2708348,0,0,0.48750122,-1269.3493,480.04423)"
        d="m 237,634.98438 v 43.07617 h 1.5 v 0.01 h 3.5 v -0.01 -43.06836 -0.008 z"
        id="path610" />
@@ -2388,7 +2388,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="tbutton-toggled-top"
      transform="matrix(0.84070003,0,0,1.2307681,847.14198,-324.56423)">
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        transform="matrix(1.1894849,0,0,0.81250075,-1007.6626,263.68512)"
        d="m 241.99805,629.94922 v 1.50195 3.5 h 46.23828 v -3.5 -1.50195 z"
        id="path613" />
@@ -2397,7 +2397,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="tbutton-toggled-bottom"
      transform="matrix(0.84070003,0,0,1.2307681,847.14198,-319.64117)">
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        transform="matrix(1.1894849,0,0,0.81250075,-1007.6626,259.68513)"
        d="m 241.99805,678.02344 v 3.5 1.50195 h 46.23828 v -1.50195 -3.5 z"
        id="path616" />
@@ -2406,7 +2406,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="tbutton-toggled-topright"
      transform="matrix(2.3414816,0,0,5,1844.8721,-3262.9974)">
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        transform="matrix(0.42708002,0,0,0.2,-787.90801,652.59368)"
        d="m 288.23828,629.95117 v 1.5 3.5 h 3.5 1.5 a 5,5 0 0 0 -5,-5 z"
        id="path619" />
@@ -2415,7 +2415,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="tbutton-toggled-bottomright"
      transform="matrix(0.44036669,0,0,1.273756,580.99744,-354.48642)">
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        transform="matrix(2.2708348,0,0,0.78507972,-1319.3492,278.27734)"
        d="m 288.23828,678.0293 v 3.5 1.5 a 5,5 0 0 0 5,-5 h -1.5 z"
        id="path622" />
@@ -2424,14 +2424,14 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="tbutton-toggled-right"
      transform="matrix(0.30924086,0,0,2.0512769,494.3238,-984.73264)">
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        transform="matrix(3.2337253,0,0,0.48750122,-1598.5074,480.04423)"
        d="m 288.24023,634.94336 v 0.0117 h -0.002 v 43.07617 h 3.5 v -0.0117 h 1.50195 v -43.07617 z"
        id="path625" />
   </g>
   <rect
      id="tbutton-toggled"
-     style="fill:#FF0000;fill-opacity:1.0"
+     style="fill:FF0000;fill-opacity:1.0"
      width="46.238"
      height="43.077"
      x="242"
@@ -2445,7 +2445,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      y="634.92" />
   <rect
      id="tbutton-pressed"
-     style="fill:#FF0000;fill-opacity:1.0"
+     style="fill:FF0000;fill-opacity:1.0"
      width="46.239"
      height="43.077"
      x="168"
@@ -2578,7 +2578,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="tbutton-pressed-topleft"
      transform="matrix(0.44036669,0,0,1.2307681,481.40997,-324.52587)">
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        transform="matrix(2.2708348,0,0,0.81250075,-1093.2025,263.65396)"
        d="m 168,629.99023 a 5,5.0000001 0 0 0 -5,5 h 1.5 3.5 v -3.5 z"
        id="path671" />
@@ -2587,7 +2587,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="tbutton-pressed-top"
      transform="matrix(0.84070004,0,0,1.2307681,773.14197,-324.56417)">
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        transform="matrix(1.1894849,0,0,0.81250075,-919.6407,263.68508)"
        d="m 167.99805,629.94922 v 1.50195 3.5 h 46.23828 v -3.5 -1.50195 z"
        id="path674" />
@@ -2596,7 +2596,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="tbutton-pressed-topright"
      transform="matrix(2.3414816,0,0,5,1770.872,-3262.9973)">
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        transform="matrix(0.42708002,0,0,0.2,-756.30404,652.59366)"
        d="m 214.23828,629.95117 v 1.5 3.5 h 3.5 1.5 a 5,5 0 0 0 -5,-5 z"
        id="path677" />
@@ -2605,7 +2605,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="tbutton-pressed-left"
      transform="matrix(0.44036669,0,0,2.0512769,484.97914,-984.77104)">
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        transform="matrix(2.2708348,0,0,0.48750122,-1101.3075,480.06295)"
        d="m 163,634.94531 v 43.07813 H 164.50195 168 168.002 V 634.94531 H 168 164.50195 Z"
        id="path680" />
@@ -2614,7 +2614,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="tbutton-pressed-right"
      transform="matrix(0.30924086,0,0,2.0512769,420.32385,-984.73244)">
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        transform="matrix(3.2337253,0,0,0.48750122,-1359.2119,480.04414)"
        d="m 214.24023,634.94336 v 43.07812 h 3.5 1.5 v -43.07812 h -1.5 z"
        id="path683" />
@@ -2623,7 +2623,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="tbutton-pressed-bottomright"
      transform="matrix(0.44036669,0,0,1.273756,506.99751,-354.48638)">
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        transform="matrix(2.2708348,0,0,0.78507972,-1151.3076,278.27731)"
        d="m 214.23828,678.0293 v 3.5 1.5 a 5,5 0 0 0 5,-5 h -1.5 z"
        id="path686" />
@@ -2632,7 +2632,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="tbutton-pressed-bottom"
      transform="matrix(0.84070004,0,0,1.2307681,773.14207,-319.64117)">
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        transform="matrix(1.1894849,0,0,0.81250075,-919.64082,259.68513)"
        d="m 167.99805,678.02344 v 3.5 1.50195 h 46.23828 v -1.50195 -3.5 z"
        id="path689" />
@@ -2641,7 +2641,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="tbutton-pressed-bottomleft"
      transform="matrix(0.44036669,0,0,1.2307681,488.12006,-316.37577)">
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        transform="matrix(2.2708348,0,0,0.81250075,-1108.44,257.03199)"
        d="m 163,678.0293 a 5.0000005,5.0000001 0 0 0 5,5 v -1.5 -3.5 h -3.5 z"
        id="path692" />
@@ -2948,7 +2948,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
   </g>
   <rect
      id="progress-pattern-disabled"
-     style="opacity:0.00100002;fill:#FF0000;fill-opacity:1.0"
+     style="opacity:0.00100002;fill:FF0000;fill-opacity:1.0"
      width="20"
      height="20"
      x="455"
@@ -3001,7 +3001,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
          transform="translate(-265,-121)"
          id="g809">
         <path
-           style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+           style="fill:#FF9999;fill-opacity:0.5019607843137255"
            d="m 270,125 a 1,1 0 0 0 -1,1 1,1 0 0 0 0.29297,0.70703 l 2.293,2.293 -2.293,2.293 a 1,1 0 0 0 -0.29,0.7 1,1 0 0 0 1,1 1,1 0 0 0 0.70703,-0.29297 l 2.293,-2.293 2.2832,2.2832 a 1,1 0 0 0 0.7168,0.30273 1,1 0 0 0 1,-1 1,1 0 0 0 -0.29297,-0.70703 l -2.3,-2.3 2.2832,-2.2832 a 1,1 0 0 0 0.31,-0.72 1,1 0 0 0 -1,-1 1,1 0 0 0 -0.70703,0.29297 l -2.293,2.293 -2.2832,-2.2832 a 1,1 0 0 0 -0.01,-0.01 1,1 0 0 0 -0.7,-0.29 z"
            id="path807" />
       </g>
@@ -3025,7 +3025,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
          transform="translate(-265,-121)"
          id="g818">
         <path
-           style="fill:#FF0000;fill-opacity:0.5019607843137255"
+           style="fill:#cc94e9;fill-opacity:0.5019607843137255"
            d="m 270,125 a 1,1 0 0 0 -1,1 1,1 0 0 0 0.29297,0.70703 l 2.293,2.293 -2.293,2.293 a 1,1 0 0 0 -0.29,0.7 1,1 0 0 0 1,1 1,1 0 0 0 0.70703,-0.29297 l 2.293,-2.293 2.2832,2.2832 a 1,1 0 0 0 0.7168,0.30273 1,1 0 0 0 1,-1 1,1 0 0 0 -0.29297,-0.70703 l -2.3,-2.3 2.2832,-2.2832 a 1,1 0 0 0 0.31,-0.72 1,1 0 0 0 -1,-1 1,1 0 0 0 -0.70703,0.29297 l -2.293,2.293 -2.2832,-2.2832 a 1,1 0 0 0 -0.01,-0.01 1,1 0 0 0 -0.7,-0.29 z"
            id="path816" />
       </g>
@@ -3049,7 +3049,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
          transform="translate(-265,-121)"
          id="g827">
         <path
-           style="fill:#FF0000;fill-opacity:1.0"
+           style="fill:FF0000;fill-opacity:1.0"
            d="m 270,125 a 1,1 0 0 0 -1,1 1,1 0 0 0 0.29297,0.70703 l 2.293,2.293 -2.293,2.293 a 1,1 0 0 0 -0.29,0.7 1,1 0 0 0 1,1 1,1 0 0 0 0.70703,-0.29297 l 2.293,-2.293 2.2832,2.2832 a 1,1 0 0 0 0.7168,0.30273 1,1 0 0 0 1,-1 1,1 0 0 0 -0.29297,-0.70703 l -2.3,-2.3 2.2832,-2.2832 a 1,1 0 0 0 0.31,-0.72 1,1 0 0 0 -1,-1 1,1 0 0 0 -0.70703,0.29297 l -2.293,2.293 -2.2832,-2.2832 a 1,1 0 0 0 -0.01,-0.01 1,1 0 0 0 -0.7,-0.29 z"
            id="path825" />
       </g>
@@ -3090,7 +3090,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="428.03"
        id="rect841" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        d="m 65.002415,432.02406 a 1,1 0 0 0 -0.70703,0.29297 l -2.29297,2.29297 -2.2832,-2.2832 a 1,1 0 0 0 -0.01,-0.01 1,1 0 0 0 -0.70117,-0.28906 l -0.01,0.0137 a 1,1 0 0 0 -1,1 1,1 0 0 0 0.29297,0.70703 l 2.29297,2.29297 -2.29297,2.29297 a 1,1 0 0 0 -0.28906,0.69922 1,1 0 0 0 1,1 1,1 0 0 0 0.70703,-0.29297 l 2.29297,-2.29297 2.2832,2.2832 a 1,1 0 0 0 0.7168,0.30274 1,1 0 0 0 1,-1 1,1 0 0 0 -0.29297,-0.70703 l -2.30078,-2.29883 2.2832,-2.2832 a 1,1 0 0 0 0.31055,-0.72071 1,1 0 0 0 -1,-1 z"
        id="path843" />
   </g>
@@ -3105,7 +3105,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="428.03"
        id="rect846" />
     <rect
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        width="8"
        height="2"
        x="76"
@@ -3125,7 +3125,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="428.03"
        id="rect851" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        d="m 98,432.0293 c -0.554,0 -1,0.446 -1,1 v 2 h -2 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 h 2 v 2 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 v -2 h 2 c 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 h -2 v -2 c 0,-0.554 -0.446,-1 -1,-1 z"
        id="path853" />
   </g>
@@ -3140,7 +3140,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="428.03"
        id="rect856" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        d="m 116,432.0293 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 z m 0,2 a 2,2 0 0 1 2,2 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 z"
        id="path858" />
   </g>
@@ -3155,7 +3155,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="428.03"
        id="rect861" />
     <path
-       style="fill:#FF0000;fill-opacity:0.5019607843137255"
+       style="fill:#cc94e9;fill-opacity:0.5019607843137255"
        d="m 65.002415,432.02406 a 1,1 0 0 0 -0.70703,0.29297 l -2.29297,2.29297 -2.2832,-2.2832 a 1,1 0 0 0 -0.01,-0.01 1,1 0 0 0 -0.70117,-0.28906 l -0.01,0.0137 a 1,1 0 0 0 -1,1 1,1 0 0 0 0.29297,0.70703 l 2.29297,2.29297 -2.29297,2.29297 a 1,1 0 0 0 -0.28906,0.69922 1,1 0 0 0 1,1 1,1 0 0 0 0.70703,-0.29297 l 2.29297,-2.29297 2.2832,2.2832 a 1,1 0 0 0 0.7168,0.30274 1,1 0 0 0 1,-1 1,1 0 0 0 -0.29297,-0.70703 l -2.30078,-2.29883 2.2832,-2.2832 a 1,1 0 0 0 0.31055,-0.72071 1,1 0 0 0 -1,-1 z"
        id="path863" />
   </g>
@@ -3170,7 +3170,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="428.03"
        id="rect866" />
     <rect
-       style="fill:#FF0000;fill-opacity:0.5019607843137255"
+       style="fill:#cc94e9;fill-opacity:0.5019607843137255"
        width="8"
        height="2"
        x="76"
@@ -3190,7 +3190,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="428.03"
        id="rect871" />
     <path
-       style="fill:#FF0000;fill-opacity:0.5019607843137255"
+       style="fill:#cc94e9;fill-opacity:0.5019607843137255"
        d="m 98,432.0293 c -0.554,0 -1,0.446 -1,1 v 2 h -2 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 h 2 v 2 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 v -2 h 2 c 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 h -2 v -2 c 0,-0.554 -0.446,-1 -1,-1 z"
        id="path873" />
   </g>
@@ -3205,7 +3205,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="428.03"
        id="rect876" />
     <path
-       style="fill:#FF0000;fill-opacity:0.5019607843137255"
+       style="fill:#cc94e9;fill-opacity:0.5019607843137255"
        d="m 116,432.0293 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 z m 0,2 a 2,2 0 0 1 2,2 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 z"
        id="path878" />
   </g>
@@ -3220,7 +3220,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="428.03"
        id="rect881" />
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        d="m 65.002415,432.02406 a 1,1 0 0 0 -0.70703,0.29297 l -2.29297,2.29297 -2.2832,-2.2832 a 1,1 0 0 0 -0.01,-0.01 1,1 0 0 0 -0.70117,-0.28906 l -0.01,0.0137 a 1,1 0 0 0 -1,1 1,1 0 0 0 0.29297,0.70703 l 2.29297,2.29297 -2.29297,2.29297 a 1,1 0 0 0 -0.28906,0.69922 1,1 0 0 0 1,1 1,1 0 0 0 0.70703,-0.29297 l 2.29297,-2.29297 2.2832,2.2832 a 1,1 0 0 0 0.7168,0.30274 1,1 0 0 0 1,-1 1,1 0 0 0 -0.29297,-0.70703 l -2.30078,-2.29883 2.2832,-2.2832 a 1,1 0 0 0 0.31055,-0.72071 1,1 0 0 0 -1,-1 z"
        id="path883" />
   </g>
@@ -3235,7 +3235,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="428.03"
        id="rect886" />
     <rect
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        width="8"
        height="2"
        x="76"
@@ -3255,7 +3255,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="428.03"
        id="rect891" />
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        d="m 98,432.0293 c -0.554,0 -1,0.446 -1,1 v 2 h -2 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 h 2 v 2 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 v -2 h 2 c 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 h -2 v -2 c 0,-0.554 -0.446,-1 -1,-1 z"
        id="path893" />
   </g>
@@ -3270,7 +3270,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="428.03"
        id="rect896" />
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        d="m 116,432.0293 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 z m 0,2 a 2,2 0 0 1 2,2 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 z"
        id="path898" />
   </g>
@@ -3285,7 +3285,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="428.03"
        id="rect901" />
     <path
-       style="opacity:0.3;fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="opacity:0.3;fill:#FF9999;fill-opacity:0.5019607843137255"
        d="m 65.002415,432.02406 a 1,1 0 0 0 -0.70703,0.29297 l -2.29297,2.29297 -2.2832,-2.2832 a 1,1 0 0 0 -0.01,-0.01 1,1 0 0 0 -0.70117,-0.28906 l -0.01,0.0137 a 1,1 0 0 0 -1,1 1,1 0 0 0 0.29297,0.70703 l 2.29297,2.29297 -2.29297,2.29297 a 1,1 0 0 0 -0.28906,0.69922 1,1 0 0 0 1,1 1,1 0 0 0 0.70703,-0.29297 l 2.29297,-2.29297 2.2832,2.2832 a 1,1 0 0 0 0.7168,0.30274 1,1 0 0 0 1,-1 1,1 0 0 0 -0.29297,-0.70703 l -2.30078,-2.29883 2.2832,-2.2832 a 1,1 0 0 0 0.31055,-0.72071 1,1 0 0 0 -1,-1 z"
        id="path903" />
   </g>
@@ -3300,7 +3300,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="428.03"
        id="rect906" />
     <rect
-       style="opacity:0.3;fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="opacity:0.3;fill:#FF9999;fill-opacity:0.5019607843137255"
        width="8"
        height="2"
        x="76"
@@ -3320,7 +3320,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="428.03"
        id="rect911" />
     <path
-       style="opacity:0.3;fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="opacity:0.3;fill:#FF9999;fill-opacity:0.5019607843137255"
        d="m 98,432.0293 c -0.554,0 -1,0.446 -1,1 v 2 h -2 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 h 2 v 2 c 0,0.554 0.446,1 1,1 0.554,0 1,-0.446 1,-1 v -2 h 2 c 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 h -2 v -2 c 0,-0.554 -0.446,-1 -1,-1 z"
        id="path913" />
   </g>
@@ -3335,7 +3335,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="428.03"
        id="rect916" />
     <path
-       style="opacity:0.3;fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="opacity:0.3;fill:#FF9999;fill-opacity:0.5019607843137255"
        d="m 116,432.0293 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 z m 0,2 a 2,2 0 0 1 2,2 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 z"
        id="path918" />
   </g>
@@ -3350,7 +3350,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="428.03"
        id="rect921" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        d="m 140,432.0293 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 h 6 c 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 z m 0,3 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 h 6 c 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 z m 0,3 c -0.554,0 -1,0.446 -1,1 0,0.554 0.446,1 1,1 h 6 c 0.554,0 1,-0.446 1,-1 0,-0.554 -0.446,-1 -1,-1 z"
        id="path923" />
   </g>
@@ -3365,19 +3365,19 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        style="fill-opacity:0.137"
        id="g935">
       <path
-         style="opacity:0.3;fill:#FFFFFF;fill-opacity:0.5019607843137255"
+         style="opacity:0.3;fill:#FF9999;fill-opacity:0.5019607843137255"
          d="m 90,109.5 h 2.5 v -2 H 90 Z"
          id="path927" />
       <path
-         style="opacity:0.3;fill:#FFFFFF;fill-opacity:0.5019607843137255"
+         style="opacity:0.3;fill:#FF9999;fill-opacity:0.5019607843137255"
          d="m 95,109.5 h 2.5 v -2 H 95 Z"
          id="path929" />
       <path
-         style="opacity:0.3;fill:#FFFFFF;fill-opacity:0.5019607843137255"
+         style="opacity:0.3;fill:#FF9999;fill-opacity:0.5019607843137255"
          d="m 99.75,109.5 h 2.5 v -2 h -2.5 z"
          id="path931" />
       <path
-         style="opacity:0.3;fill:#FFFFFF;fill-opacity:0.5019607843137255"
+         style="opacity:0.3;fill:#FF9999;fill-opacity:0.5019607843137255"
          d="m 105,109.5 h 2.5 v -2 H 105 Z"
          id="path933" />
     </g>
@@ -3584,7 +3584,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
   </g>
   <rect
      id="menubaritem-focused"
-     style="opacity:0.05;fill:#FFFFFF;fill-opacity:0.5019607843137255"
+     style="opacity:0.05;fill:#FF9999;fill-opacity:0.5019607843137255"
      width="30"
      height="10"
      x="722.48"
@@ -3598,14 +3598,14 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      y="155.14" />
   <rect
      id="menubaritem-toggled"
-     style="opacity:0.05;fill:#FFFFFF;fill-opacity:0.5019607843137255"
+     style="opacity:0.05;fill:#FF9999;fill-opacity:0.5019607843137255"
      width="30"
      height="10"
      x="765.88"
      y="155.14" />
   <rect
      id="menubaritem-pressed"
-     style="fill:#FF0000;fill-opacity:1.0"
+     style="fill:FF0000;fill-opacity:1.0"
      width="30"
      height="10"
      x="803.48"
@@ -3752,7 +3752,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1063" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1065" />
@@ -3768,7 +3768,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1068" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1070" />
@@ -3784,7 +3784,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1073" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1075" />
@@ -3800,7 +3800,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1078" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1080" />
@@ -3816,7 +3816,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1083" />
     <path
-       style="opacity:0.3;fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="opacity:0.3;fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1085" />
@@ -3832,7 +3832,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1088" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1090" />
@@ -3848,7 +3848,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1093" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1095" />
@@ -3864,7 +3864,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1098" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1100" />
@@ -3880,7 +3880,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1103" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1105" />
@@ -3896,7 +3896,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1108" />
     <path
-       style="opacity:0.3;fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="opacity:0.3;fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1110" />
@@ -3912,7 +3912,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1113" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1115" />
@@ -3928,7 +3928,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1118" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1120" />
@@ -3944,7 +3944,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1123" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1125" />
@@ -3960,7 +3960,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1128" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1130" />
@@ -3976,7 +3976,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1133" />
     <path
-       style="opacity:0.3;fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="opacity:0.3;fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1135" />
@@ -3992,7 +3992,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1138" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1140" />
@@ -4008,7 +4008,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1143" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1145" />
@@ -4024,7 +4024,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1148" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1150" />
@@ -4040,7 +4040,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1153" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1155" />
@@ -4056,7 +4056,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1158" />
     <path
-       style="opacity:0.3;fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="opacity:0.3;fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1160" />
@@ -4072,7 +4072,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="317"
        id="rect1163" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        d="m 18,317 v 3 h -3 v 2 h 3 v 3 h 2 v -3 h 3 v -2 h -3 v -3 z"
        id="path1165" />
   </g>
@@ -4087,7 +4087,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="317"
        id="rect1168" />
     <rect
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        width="2"
        height="8"
        x="320"
@@ -4106,7 +4106,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="317"
        id="rect1173" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        d="m 18,317 v 3 h -3 v 2 h 3 v 3 h 2 v -3 h 3 v -2 h -3 v -3 z"
        id="path1175" />
   </g>
@@ -4121,7 +4121,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="317"
        id="rect1178" />
     <rect
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        width="2"
        height="8"
        x="320"
@@ -4140,7 +4140,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="317"
        id="rect1183" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        d="m 18,317 v 3 h -3 v 2 h 3 v 3 h 2 v -3 h 3 v -2 h -3 v -3 z"
        id="path1185" />
   </g>
@@ -4155,7 +4155,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="317"
        id="rect1188" />
     <rect
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        width="2"
        height="8"
        x="320"
@@ -4174,7 +4174,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="317"
        id="rect1193" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        d="m 18,317 v 3 h -3 v 2 h 3 v 3 h 2 v -3 h 3 v -2 h -3 v -3 z"
        id="path1195" />
   </g>
@@ -4189,7 +4189,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="317"
        id="rect1198" />
     <rect
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        width="2"
        height="8"
        x="320"
@@ -4208,7 +4208,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="317"
        id="rect1203" />
     <path
-       style="opacity:0.3;fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="opacity:0.3;fill:#FF9999;fill-opacity:0.5019607843137255"
        d="m 18,317 v 3 h -3 v 2 h 3 v 3 h 2 v -3 h 3 v -2 h -3 v -3 z"
        id="path1205" />
   </g>
@@ -4223,7 +4223,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="317"
        id="rect1208" />
     <rect
-       style="opacity:0.3;fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="opacity:0.3;fill:#FF9999;fill-opacity:0.5019607843137255"
        width="2"
        height="8"
        x="320"
@@ -4242,7 +4242,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1213" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1215" />
@@ -4258,7 +4258,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1218" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1220" />
@@ -4274,7 +4274,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1223" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1225" />
@@ -4290,7 +4290,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1228" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1230" />
@@ -4306,7 +4306,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1233" />
     <path
-       style="opacity:0.3;fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="opacity:0.3;fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1235" />
@@ -4322,7 +4322,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1238" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1240" />
@@ -4338,7 +4338,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1243" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1245" />
@@ -4354,7 +4354,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1248" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1250" />
@@ -4370,7 +4370,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1253" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1255" />
@@ -4386,7 +4386,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1258" />
     <path
-       style="opacity:0.3;fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="opacity:0.3;fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1260" />
@@ -4402,7 +4402,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1263" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1265" />
@@ -4418,7 +4418,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1268" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1270" />
@@ -4434,7 +4434,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1273" />
     <path
-       style="opacity:0.3;fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="opacity:0.3;fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1275" />
@@ -4450,7 +4450,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1278" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1280" />
@@ -4466,7 +4466,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1283" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1285" />
@@ -4482,7 +4482,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1288" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1290" />
@@ -4498,7 +4498,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1293" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1295" />
@@ -4514,7 +4514,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1298" />
     <path
-       style="opacity:0.3;fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="opacity:0.3;fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1300" />
@@ -4530,7 +4530,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1303" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1305" />
@@ -4546,7 +4546,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1308" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1310" />
@@ -4562,7 +4562,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1313" />
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1315" />
@@ -4578,7 +4578,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1318" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1320" />
@@ -4594,7 +4594,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1323" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1325" />
@@ -4610,7 +4610,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1328" />
     <path
-       style="opacity:0.3;fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="opacity:0.3;fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1330" />
@@ -4626,7 +4626,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1333" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1335" />
@@ -4642,7 +4642,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1338" />
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1340" />
@@ -4658,7 +4658,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1343" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1345" />
@@ -4674,7 +4674,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1348" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1350" />
@@ -4690,7 +4690,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1353" />
     <path
-       style="opacity:0.3;fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="opacity:0.3;fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1355" />
@@ -4706,7 +4706,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1358" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1360" />
@@ -4722,7 +4722,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1363" />
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1365" />
@@ -4738,7 +4738,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1368" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1370" />
@@ -4754,7 +4754,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1373" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1375" />
@@ -4770,7 +4770,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1378" />
     <path
-       style="opacity:0.3;fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="opacity:0.3;fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1380" />
@@ -4786,7 +4786,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1383" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1385" />
@@ -4802,7 +4802,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1388" />
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1390" />
@@ -4818,7 +4818,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1393" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1395" />
@@ -4834,7 +4834,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1398" />
     <path
-       style="fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1400" />
@@ -4850,7 +4850,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        y="529"
        id="rect1403" />
     <path
-       style="opacity:0.3;fill:#FFFFFF;fill-opacity:0.5019607843137255"
+       style="opacity:0.3;fill:#FF9999;fill-opacity:0.5019607843137255"
        transform="matrix(0.72168782,0,0,1,52.663678,0.42535408)"
        d="m 194.45572,532.57465 -3.46411,2 -3.4641,2 v -4 -4 l 3.4641,2 z"
        id="path1405" />
@@ -5398,7 +5398,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
           <g
              id="g1593">
             <rect
-               style="fill:#FFFFFF;stroke:#000000;stroke-width:0;stroke-linejoin:round;fill-opacity:0.5019607843137255;stroke-opacity:1.0"
+               style="fill:#FF9999;stroke:#000000;stroke-width:0;stroke-linejoin:round;fill-opacity:0.5019607843137255;stroke-opacity:1.0"
                width="14"
                height="14"
                x="18"
@@ -5424,7 +5424,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
              transform="translate(-3,-4.9999826)"
              id="g1605">
             <rect
-               style="fill:#FF0000;fill-opacity:1.0"
+               style="fill:FF0000;fill-opacity:1.0"
                width="5"
                height="2"
                x="8"
@@ -5433,7 +5433,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
                ry=".667"
                id="rect1601" />
             <rect
-               style="fill:#FF0000;fill-opacity:1.0"
+               style="fill:FF0000;fill-opacity:1.0"
                width="2"
                height="8"
                x="11"
@@ -5474,7 +5474,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
           <g
              id="g1620">
             <rect
-               style="fill:#FFFFFF;stroke:#000000;stroke-width:0;stroke-linejoin:round;fill-opacity:0.5019607843137255;stroke-opacity:1.0"
+               style="fill:#FF9999;stroke:#000000;stroke-width:0;stroke-linejoin:round;fill-opacity:0.5019607843137255;stroke-opacity:1.0"
                width="14"
                height="14"
                x="18"
@@ -5500,7 +5500,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
              transform="translate(-3,-4.9999826)"
              id="g1630">
             <rect
-               style="fill:#FF0000;fill-opacity:1.0"
+               style="fill:FF0000;fill-opacity:1.0"
                width="2"
                height="8"
                x="-738.8"
@@ -5547,7 +5547,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
               <g
                  id="g1645">
                 <rect
-                   style="fill:#FFFFFF;stroke:#999999;stroke-width:0;stroke-linejoin:round;fill-opacity:0.5019607843137255;stroke-opacity:1.0"
+                   style="fill:#FF9999;stroke:#999999;stroke-width:0;stroke-linejoin:round;fill-opacity:0.5019607843137255;stroke-opacity:1.0"
                    width="29.385"
                    height="28.919"
                    x="51.61"
@@ -5562,7 +5562,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
       </g>
     </g>
     <rect
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        width="4"
        height="4"
        x="122"
@@ -6631,21 +6631,21 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
   </g>
   <path
      id="menu-shadow-hint-bottom"
-     style="fill:#FF0000;fill-opacity:1.0" <!-- Ferrari red -->
+     style="fill:#d4a4f5;fill-opacity:1.0"
      d="m 564.00002,188 h 2 v 6 h -2 z" />
   <path
      id="menu-shadow-hint-top"
-     style="fill:#FF0000;fill-opacity:1.0" <!-- Ferrari red -->
+     style="fill:#d4a4f5;fill-opacity:1.0"
      d="m 564.00002,131 h 2 v 6 h -2 z" />
   <path
      id="menu-shadow-hint-right"
-     style="fill:#FF0000;fill-opacity:1.0" <!-- Ferrari red -->
+     style="fill:#d4a4f5;fill-opacity:1.0"
      d="m 592,163.49376 v -2 h 6 v 2 z" />
   <path
      id="menu-shadow-hint-left"
-     style="fill:#FF0000;fill-opacity:1.0" <!-- Ferrari red -->
+     style="fill:#d4a4f5;fill-opacity:1.0"
      d="m 532.00002,163 v -2 h 6 v 2 z" />
-  <g>
+  <g
      id="button-normal-left"
      transform="matrix(0.8,0,0,0.98461538,105,-30.001575)">
     <path
@@ -6849,7 +6849,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="button-pressed-left"
      transform="matrix(0.8,0,0,0.98461538,197.0002,-30.001575)">
     <path
-       style="fill:#FF0000;fill-rule:evenodd;fill-opacity:1.0"
+       style="fill:FF0000;fill-rule:evenodd;fill-opacity:1.0"
        d="M 28.75,81.2514 V 48.7516 h -6.875125 v 32.5 z"
        id="path2135" />
     <path
@@ -6861,7 +6861,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="button-pressed-topleft"
      transform="matrix(0.8,0,0,0.8,197.0002,-21.001285)">
     <path
-       style="fill:#FF0000;fill-rule:evenodd;fill-opacity:1.0"
+       style="fill:FF0000;fill-rule:evenodd;fill-opacity:1.0"
        d="m 28.75,41.876606 c -4.125,-5.1e-5 -6.875155,2.749964 -6.875125,6.874994 H 28.75 Z"
        id="path2140" />
     <path
@@ -6871,13 +6871,13 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
   </g>
   <path
      id="button-pressed"
-     style="fill:#FF0000;fill-rule:evenodd;fill-opacity:1.0"
+     style="fill:FF0000;fill-rule:evenodd;fill-opacity:1.0"
      d="m 220.0002,17.999997 v 31.999999 h 32 V 17.999997 Z" />
   <g
      id="button-pressed-top"
      transform="matrix(0,0.8,-0.98461538,0,300.00178,-5.0000047)">
     <path
-       style="fill:#FF0000;fill-rule:evenodd;fill-opacity:1.0"
+       style="fill:FF0000;fill-rule:evenodd;fill-opacity:1.0"
        d="M 28.75,81.2514 V 48.7516 h -6.874994 v 32.5 z"
        id="path2146" />
     <path
@@ -6889,7 +6889,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="button-pressed-topright"
      transform="matrix(-0.8,0,0,0.8,275.0002,-21.001285)">
     <path
-       style="fill:#FF0000;fill-rule:evenodd;fill-opacity:1.0"
+       style="fill:FF0000;fill-rule:evenodd;fill-opacity:1.0"
        d="m 28.75,41.876606 c -4.125,-5.1e-5 -6.874905,2.749964 -6.874875,6.874994 H 28.75 Z"
        id="path2151" />
     <path
@@ -6901,7 +6901,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="button-pressed-bottom"
      transform="matrix(0,-0.8,-0.98461538,0,300.00158,72.999996)">
     <path
-       style="fill:#FF0000;fill-rule:evenodd;fill-opacity:1.0"
+       style="fill:FF0000;fill-rule:evenodd;fill-opacity:1.0"
        d="M 28.75,81.2514 V 48.7516 h -6.875005 v 32.5 z"
        id="path2156" />
     <path
@@ -6913,7 +6913,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="button-pressed-right"
      transform="matrix(-0.8,0,0,0.98461538,275.0002,-30.00158)">
     <path
-       style="fill:#FF0000;fill-rule:evenodd;fill-opacity:1.0"
+       style="fill:FF0000;fill-rule:evenodd;fill-opacity:1.0"
        d="M 28.75,81.2514 V 48.7516 h -6.874875 v 32.5 z"
        id="path2161" />
     <path
@@ -6925,7 +6925,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="button-pressed-bottomleft"
      transform="matrix(0.8,0,0,-0.8,197,89.001276)">
     <path
-       style="fill:#FF0000;fill-rule:evenodd;fill-opacity:1.0"
+       style="fill:FF0000;fill-rule:evenodd;fill-opacity:1.0"
        d="m 28.75,41.876595 c -4.125,-5.1e-5 -6.875155,2.749975 -6.875125,6.875005 H 28.75 Z"
        id="path2166" />
     <path
@@ -6937,7 +6937,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="button-pressed-bottomright"
      transform="matrix(-0.8,0,0,-0.8,275,89.001276)">
     <path
-       style="fill:#FF0000;fill-rule:evenodd;fill-opacity:1.0"
+       style="fill:FF0000;fill-rule:evenodd;fill-opacity:1.0"
        d="m 28.75,41.876595 c -4.125,-5.1e-5 -6.874905,2.749975 -6.874875,6.875005 H 28.75 Z"
        id="path2171" />
     <path
@@ -6949,7 +6949,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="button-toggled-left"
      transform="matrix(0.8,0,0,0.98461538,243.0002,-30.001575)">
     <path
-       style="fill:#FF0000;fill-rule:evenodd;fill-opacity:1.0"
+       style="fill:FF0000;fill-rule:evenodd;fill-opacity:1.0"
        d="M 28.75,81.2514 V 48.7516 h -6.875125 v 32.5 z"
        id="path2176" />
     <path
@@ -6961,7 +6961,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="button-toggled-topleft"
      transform="matrix(0.8,0,0,0.8,243.0002,-21.001285)">
     <path
-       style="fill:#FF0000;fill-rule:evenodd;fill-opacity:1.0"
+       style="fill:FF0000;fill-rule:evenodd;fill-opacity:1.0"
        d="m 28.75,41.876606 c -4.125,-5.1e-5 -6.875155,2.749964 -6.875125,6.874994 H 28.75 Z"
        id="path2181" />
     <path
@@ -6971,13 +6971,13 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
   </g>
   <path
      id="button-toggled"
-     style="fill:#FF0000;fill-rule:evenodd;fill-opacity:1.0"
+     style="fill:FF0000;fill-rule:evenodd;fill-opacity:1.0"
      d="m 266.0002,17.999997 v 31.999999 h 32 V 17.999997 Z" />
   <g
      id="button-toggled-top"
      transform="matrix(0,0.8,-0.98461538,0,346.00178,-5.0000047)">
     <path
-       style="fill:#FF0000;fill-rule:evenodd;fill-opacity:1.0"
+       style="fill:FF0000;fill-rule:evenodd;fill-opacity:1.0"
        d="M 28.75,81.2514 V 48.7516 h -6.874994 v 32.5 z"
        id="path2187" />
     <path
@@ -6989,7 +6989,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="button-toggled-topright"
      transform="matrix(-0.8,0,0,0.8,321.0002,-21.001285)">
     <path
-       style="fill:#FF0000;fill-rule:evenodd;fill-opacity:1.0"
+       style="fill:FF0000;fill-rule:evenodd;fill-opacity:1.0"
        d="m 28.75,41.876606 c -4.125,-5.1e-5 -6.874905,2.749964 -6.874875,6.874994 H 28.75 Z"
        id="path2192" />
     <path
@@ -7001,7 +7001,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="button-toggled-bottom"
      transform="matrix(0,-0.8,-0.98461538,0,346.00158,72.999996)">
     <path
-       style="fill:#FF0000;fill-rule:evenodd;fill-opacity:1.0"
+       style="fill:FF0000;fill-rule:evenodd;fill-opacity:1.0"
        d="M 28.75,81.2514 V 48.7516 h -6.875005 v 32.5 z"
        id="path2197" />
     <path
@@ -7013,7 +7013,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="button-toggled-right"
      transform="matrix(-0.8,0,0,0.98461538,321.0002,-30.00158)">
     <path
-       style="fill:#FF0000;fill-rule:evenodd;fill-opacity:1.0"
+       style="fill:FF0000;fill-rule:evenodd;fill-opacity:1.0"
        d="M 28.75,81.2514 V 48.7516 h -6.874875 v 32.5 z"
        id="path2202" />
     <path
@@ -7025,7 +7025,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="button-toggled-bottomleft"
      transform="matrix(0.8,0,0,-0.8,243,89.001276)">
     <path
-       style="fill:#FF0000;fill-rule:evenodd;fill-opacity:1.0"
+       style="fill:FF0000;fill-rule:evenodd;fill-opacity:1.0"
        d="m 28.75,41.876595 c -4.125,-5.1e-5 -6.875155,2.749975 -6.875125,6.875005 H 28.75 Z"
        id="path2207" />
     <path
@@ -7037,7 +7037,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
      id="button-toggled-bottomright"
      transform="matrix(-0.8,0,0,-0.8,321,89.001276)">
     <path
-       style="fill:#FF0000;fill-rule:evenodd;fill-opacity:1.0"
+       style="fill:FF0000;fill-rule:evenodd;fill-opacity:1.0"
        d="m 28.75,41.876595 c -4.125,-5.1e-5 -6.874905,2.749975 -6.874875,6.875005 H 28.75 Z"
        id="path2212" />
     <path
@@ -7161,7 +7161,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        d="m 176,-52.971008 c -3.3,-4.1e-5 -6.00002,2.699976 -6,6 h 2 c 0,-2.5 1.5,-4 4,-4 z"
        id="path2261" />
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        d="m 176,-50.971008 c -2,0 -4,1 -4,4 h 2 c 0,-2 2,-2 2,-2 z"
        id="path2263" />
   </g>
@@ -7177,7 +7177,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        d="m 207.9998,-52.971008 h -32 v 2 h 32 z"
        id="path2268" />
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        d="m 176,-50.971008 h 32 v 2 h -32 z"
        id="path2270" />
   </g>
@@ -7193,7 +7193,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        d="m 176,-52.971008 c -3.3,-4.1e-5 -6.00002,2.699976 -6,6 h 2 c 0,-2.5 1.5,-4 4,-4 z"
        id="path2275" />
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        d="m 176,-50.971008 c -2,0 -4,1 -4,4 h 2 c 0,-2 2,-2 2,-2 z"
        id="path2277" />
   </g>
@@ -7209,7 +7209,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        d="m 207.9998,-52.971008 h -32 v 2 h 32 z"
        id="path2282" />
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        d="m 176,-50.971008 h 32 v 2 h -32 z"
        id="path2284" />
   </g>
@@ -7225,7 +7225,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        d="m 176,-52.971008 c -3.3,-4.1e-5 -6.00002,2.699976 -6,6 h 2 c 0,-2.5 1.5,-4 4,-4 z"
        id="path2289" />
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        d="m 176,-50.971008 c -2,0 -4,1 -4,4 h 2 c 0,-2 2,-2 2,-2 z"
        id="path2291" />
   </g>
@@ -7241,7 +7241,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        d="m 207.9998,-52.971008 h -32 v 2 h 32 z"
        id="path2296" />
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        d="m 176,-50.971008 h 32 v 2 h -32 z"
        id="path2298" />
   </g>
@@ -7257,7 +7257,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        d="m 176,-52.971008 c -3.3,-4.1e-5 -6.00002,2.699976 -6,6 h 2 c 0,-2.5 1.5,-4 4,-4 z"
        id="path2303" />
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        d="m 176,-50.971008 c -2,0 -4,1 -4,4 h 2 c 0,-2 2,-2 2,-2 z"
        id="path2305" />
   </g>
@@ -7273,7 +7273,7 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
        d="m 207.9998,-52.971008 h -32 v 2 h 32 z"
        id="path2310" />
     <path
-       style="fill:#FF0000;fill-opacity:1.0"
+       style="fill:FF0000;fill-opacity:1.0"
        d="m 176,-50.971008 h 32 v 2 h -32 z"
        id="path2312" />
   </g>

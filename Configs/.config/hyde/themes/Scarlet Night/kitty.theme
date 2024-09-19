@@ -6,6 +6,7 @@ background              #0A0A0A
 selection_foreground    #0A0A0A
 selection_background    #FF0000
 
+url_color               #73daca
 cursor                  #FF4444 
 cursor_text_color       #FFFFFF
 
@@ -23,24 +24,24 @@ color0      #1A1A1A
 color8      #4A4A4A      
 
 # Typing color - bright red
-color1      #FF2222
-color9      #FF5555
+color1      #DD0000
+color9      #DD0000
 
 # Confirmed typing - deeper red
-color2      #AA0000
-color10     #DD1111
+color2      #FF9999
+color10     #FF9999
 
-color3      #FF3333
+color3      #FF6666
 color11     #FF6666
 
-color4      #AA1111
-color12     #DD2222
+color4      #FF0000
+color12     #FF0000
 
 color5      #FF4444
-color13     #FF7777
+color13     #FF4444
 
-color6      #DD0000
-color14     #FF8888
+color6      #FF5555
+color14     #FF5555
 
-color7      #FF1111
-color15     #FF9999
+color7      #a9b1d6
+color15     #a9b1d6
